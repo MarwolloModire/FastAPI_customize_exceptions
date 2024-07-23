@@ -1,0 +1,10 @@
+.vscode
+__pycache__
+venv
+.env
+alembic.ini
+*.egg-info
+/test_schema.db
+/test.cfg
+.idea/
+.pytest_cache/
